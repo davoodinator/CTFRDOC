@@ -8,3 +8,8 @@ TYPE (freeplay or adventure)  \  MAP (chult / grand atm) \ SUBMAP (daggerford, w
 
 ie
 \Freeplays\Kelemvor\Grand Tour of the Sword Coast\Daggerford - Ring of Regeneration
+
+
+formation naming convention
+
+(champs CORE or EVENT or MIXED) - Favour level early mid late - gear level naked clothed opulent
