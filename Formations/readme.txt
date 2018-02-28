@@ -12,4 +12,4 @@ ie
 
 formation naming convention
 
-(champs CORE or EVENT or MIXED) - Favour level early mid late - gear level naked clothed opulent
+(champs CORE or EVENT or MIXED) - Favour level early mid late - gear level naked clothed opulent - sign it or give it a name at the end
