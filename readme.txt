@@ -1,3 +1,5 @@
+Some technical documentation for Champions of The Forgotten Realms Idle Clicker.
+
 DISCORD		https://discord.gg/KqS65JG
 REDDIT		https://www.reddit.com/r/idlechampions/
 WWW		http://www.codenameentertainment.com/?page=idle_champions
