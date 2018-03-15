@@ -5,6 +5,7 @@ REDDIT		https://www.reddit.com/r/idlechampions/
 WWW		http://www.codenameentertainment.com/?page=idle_champions
 STEAM		http://store.steampowered.com/app/627690/Idle_Champions_of_the_Forgotten_Realms/
 
+Shiny Drop rates https://docs.google.com/spreadsheets/d/1sJA90tv5F2ZlAJYQFp8Yo_vH4qE36tZVf1PPgBFb6dc/edit?usp=sharing
 
 2018-02-28 repository is born.
 @Archimedes#5179   of discord will be running the show mostly
